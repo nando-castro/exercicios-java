@@ -9,6 +9,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         int numero = 2;
         int multiplicador = 10;
+
         System.out.println("----------------------------");
         System.out.println("Tabela de multiplicação de " + numero);
         System.out.println("----------------------------");
